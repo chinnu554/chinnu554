@@ -1,4 +1,4 @@
-# Hi, I'm Ray 👋
+# Hi, I'm Eswar 👋
 
 Cloud Engineering Student | Full-Stack & Web Developer
 
@@ -21,11 +21,8 @@ Java • Python • JavaScript • React • MongoDB • Node.js
 
 ## Currently Focused On
 
-* Cloud Engineering
-* DSA
-* Full-Stack Development
-* Competitive Programming
-* IoT
+Cloud Engineering • Data Structures and Algorithms • Full-Stack Development • Competitive Programming • Hackathons 
 
 > “Build. Learn. Repeat. Debug. Repeat again.”
-  You can contact me from the links given in the github profile
+
+You can contact me from the links given in the github profile
