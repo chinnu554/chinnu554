@@ -5,6 +5,7 @@ Cloud Engineering Student | Full-Stack & Web Developer
 Currently learning and building with Cloud Engineering, DSA, IoT, and Web Development.
 Most of my bugs are now feature requests.
 Turning caffeine into code since day one.
+My main stack is MERN stack and going to become cloud engineer .
 
 ## About Me
 
