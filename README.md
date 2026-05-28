@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Ray 👋
 
-<!--
-**chinnu554/chinnu554** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cloud Engineering Student | Full-Stack & Web Developer
 
-Here are some ideas to get you started:
+Currently learning and building with Cloud Engineering, DSA, IoT, and Web Development.
+Most of my bugs are now feature requests.
+Turning caffeine into code since day one.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+* Learning Data Structures & Algorithms in Java
+* Interested in cloud systems and scalable applications
+* Building responsive and full-stack web applications
+* Exploring IoT and smart system development
+* Professionally debugging code at 2 AM
+* Running on logic, late nights, and questionable Wi-Fi stability
+
+## Hobbies
+
+* Playing Chess
+* Coding and Building Projects
+* Exploring New Technologies
+* Listening to Music
+* Learning about AI and Space Tech
+
+## Tech Stack
+
+Java • Python • JavaScript • React • MongoDB • Node.js
+
+## Currently Focused On
+
+* Cloud Engineering
+* DSA
+* Full-Stack Development
+* Competitive Programming
+* IoT
+
+> “Build. Learn. Repeat. Debug. Repeat again.”
+  You can contact me from the links given in the github profile
