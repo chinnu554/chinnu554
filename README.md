@@ -15,14 +15,6 @@ Turning caffeine into code since day one.
 * Professionally debugging code at 2 AM
 * Running on logic, late nights, and questionable Wi-Fi stability
 
-## Hobbies
-
-* Playing Chess
-* Coding and Building Projects
-* Exploring New Technologies
-* Listening to Music
-* Learning about AI and Space Tech
-
 ## Tech Stack
 
 Java • Python • JavaScript • React • MongoDB • Node.js
